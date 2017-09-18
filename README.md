@@ -7,5 +7,6 @@ For this project the components i used:
 - Servo
 - 2x 10K resistor
 - 2x LDR
+
 Description:
  An automatic solar tracker using 2 LDR.Since i done for only single axis it can also be implemented for double axis rotation using 2 servos.
